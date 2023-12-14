@@ -66,6 +66,10 @@ header p {
   box-shadow: 0 3px 10px;
 }
 
+.register:hover{
+  background-color: var(--Soft-Magenta);
+}
+
 /***************** footer ****************/
 
 footer {
